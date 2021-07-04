@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;}
+#bgimage{
+    background-image: url(computerbg.jpg);
+    
+}
+#name{
+    color: black;
+}
+#heading{
+    color: rgb(170, 126, 30);
+    font-family: 'Dancing Script', cursive;
+}
+.halfw{
+    width: 50%;
+    
+}
+.halfw img{
+    width: 70%;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: rgb(15, 14, 14);
+    background-color: rgb(81, 80, 141);
+    font-weight: 700;
+}
+#diva{ color: rgb(167, 228, 243);
+       padding-left:2% ;  
+   }
+.color{  
+    display: flex;
+    padding-bottom: 100px;
+}
+.margin{
+    padding-left: 10px;
+}
+.shadow{
+    width: 40%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 30px rgb(81, 146, 189);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.bgimaget{
+    background-image: url(bg2.jpg);
+    color: cyan;
+    display: flex;
+    padding-bottom: 250px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(109, 190, 190);
+    text-align: center;
+}
+.web-border{
+    border-left: 7px solid;
+    border-image: radial-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.jewel{
+        border-left: 7px solid;
+        border-image: radial-gradient(salmon,tomato);
+        border-image-slice: 1;
+}
+.experiences {
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+}
+.flexible-container{
+    display: flex;
+    padding-bottom: 150px;
+}
+.colorx{
+    color: orange;
+}
+.shadowx{
+    background-color:10px 10px 40px rgb(82, 142, 199); ;
+    width: 40%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px rgb(82, 142, 199);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
